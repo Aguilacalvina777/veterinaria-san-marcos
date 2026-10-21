@@ -91,8 +91,6 @@ veterinaria-san-marcos/
 │   ├── test/               # Suite de 12 pruebas unitarias con Vitest y RTL
 │   ├── App.jsx             # Router principal con rutas públicas y protegidas
 │   └── main.jsx            # Punto de entrada de la aplicación
-├── DOCUMENTO_COBERTURA_TESTING_EP2.md  # Plantilla oficial completada con análisis y resultados
-├── DOCUMENTO_ERS_V2.md                 # Especificación de Requerimientos de Software V2
 ├── package.json
 └── vite.config.js
 ```
